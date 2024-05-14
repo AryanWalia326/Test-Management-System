@@ -48,10 +48,10 @@ let questions = [
     question: "What does XML stand for?",
     answer: "eXtensible Markup Language",
     options: [
-      "eXtensible Markup Language",
-      "eXecutable Multiple Language",
-      "eXTra Multi-Program Language",
-      "eXamine Multiple Language"
+      "EXtensible Markup Language",
+      "EXecutable Multiple Language",
+      "EXTra Multi-Program Language",
+      "EXamine Multiple Language"
     ]
   },
 ];
