@@ -152,7 +152,7 @@ function showResult(){
         scoreText.innerHTML = scoreTag;
     }
 }
-
+//Should've Won
 function startTimer(time){
     counter = setInterval(timer, 1000);
     function timer(){
